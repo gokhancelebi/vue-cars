@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "Chevy",
+        "price" : 15000,
+        "year" : 2015
+    },
+    {
+        "id" : 2,
+        "name" : "Bentley",
+        "price" : 20000,
+        "year" : 2005
+    },
+    {
+        "id" : 3,
+        "name" : "BMW",
+        "price" : 25000,
+        "year" : 2001
+    },
+    {
+        "id" : 5,
+        "name" : "Ford",
+        "price" : 10000,
+        "year" : 2003
+    },
+    {
+        "id" : 6,
+        "name" : "Nissan",
+        "price" : 10230,
+        "year" : 2017
+    }
+]
